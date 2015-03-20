@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'react-rails', github: 'reactjs/react-rails'
+gem "browserify-rails", "~> 0.8"

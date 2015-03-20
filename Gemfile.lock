@@ -50,6 +50,8 @@ GEM
     arel (6.0.0)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    browserify-rails (0.8.1)
+      sprockets (~> 2.0)
     builder (3.2.2)
     byebug (3.5.1)
       columnize (~> 0.8)
@@ -162,6 +164,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  browserify-rails (~> 0.8)
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
