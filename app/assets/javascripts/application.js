@@ -13,6 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require react
+//= require_self
 //= require react_ujs
 //= require components
+
+window.React = require('react');
