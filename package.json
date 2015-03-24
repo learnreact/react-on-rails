@@ -2,6 +2,9 @@
   "devDependencies": {
     "browserify": "^9.0.3",
     "browserify-incremental": "^1.5.0",
+    "jest-cli": "^0.4.0",
+    "react": "^0.13.1",
+    "react-tools": "^0.13.1",
     "reactify": "^1.1.0"
   }
 }
