@@ -1,1 +1,1 @@
-//= require_tree ./components
+Greeting = require('./components/greeting');
